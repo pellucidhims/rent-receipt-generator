@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.appRoot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.newChildDiv {
+    color: orange;
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+.newChildDiv:hover {
+    transform: scale(1.2);
+    color: red;
+    border-radius: 0px;
+    transition: all 0.25s linear;
+    
+}
