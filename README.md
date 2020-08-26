@@ -1,2 +1,2 @@
-# vanilla-js-boilerplate
-A template to get started with vanillaJS 
+# rent-receipt-generator
+VanillaJS based monthly rent receipts generator
